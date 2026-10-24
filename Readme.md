@@ -11,13 +11,6 @@ Other things were checked in this PoC:
 2. Feasibility of constant background Bluetooth activity
 3. Interference with other apps using Bluetooth
 
-
-### Cloning Instruction 
-
-```
-git clone https://github.com/epam/covid-tracing-bluetooth-poc
-```
-
 ### Description per platform
 
 ##### iOS:
